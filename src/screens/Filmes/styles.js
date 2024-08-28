@@ -9,6 +9,12 @@ const styles = StyleSheet.create({
 
   text: {
     fontSize: 20,
+    color: 'white',
+  },
+  backgroundImage: {
+    position: "absolute",
+    width: "100%",
+    height: "100%",
   },
 });
 
